@@ -185,7 +185,7 @@ h5py==2.9.0
 HeapDict==1.0.1
 hiredis==1.0.0
 html5lib==1.0.1
-httplib2==0.11.3
+httplib2==0.18.0
 humanfriendly==4.18
 hyperlink==19.0.0
 idna==2.8
