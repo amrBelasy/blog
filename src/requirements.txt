@@ -382,7 +382,7 @@ rjsmin==1.1.0
 rope==0.14.0
 rq==0.9.1
 rq-dashboard==0.3.10
-rsa==4.0
+rsa==4.7
 ruamel-yaml==0.15.46
 Rx==1.6.1
 s3transfer==0.2.1
