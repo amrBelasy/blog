@@ -44,7 +44,7 @@ bottle==0.12.17
 Bottleneck==1.2.1
 bs4==0.0.1
 bullet==2.1.0
-celery==4.3.0
+celery==5.2.2
 certifi==2018.11.29
 cffi==1.12.3
 channels==2.3.1
