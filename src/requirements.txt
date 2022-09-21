@@ -354,7 +354,7 @@ python-datauri==0.2.6
 python-dateutil==2.8.0
 python-decouple==3.1
 python-http-client==3.2.1
-python-jwt==2.0.1
+python-jwt==3.3.4
 python-memcached==1.59
 python-secrets==19.10.1
 python-slugify==1.2.6
